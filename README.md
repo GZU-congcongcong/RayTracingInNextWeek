@@ -1,7 +1,7 @@
 # RayTracingInNextWeek
 《Ray Tracing In One Weekend》&amp;《Ray Tracing In Next Week》Demo
 
-（《Ray Tracing In Next Week》--> https://raytracing.github.io/books/RayTracingTheNextWeek.html）
+（《Ray Tracing In Next Week》--> [https://raytracing.github.io/books/RayTracingTheNextWeek.html](https://raytracing.github.io/books/RayTracingTheNextWeek.html)）
 
 After following the 《Ray Tracing In One Weekend》&&《Ray Tracing In Next Week》 tutorialyou can get the following pictures
 
