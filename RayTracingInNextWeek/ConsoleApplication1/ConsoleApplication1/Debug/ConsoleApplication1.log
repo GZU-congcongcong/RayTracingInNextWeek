@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\unity\unity_shaders_book-master\raytracing-dev-main\raytracing-dev-main\perlin.h(35): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\unity\unity_shaders_book-master\raytracing-dev-main\raytracing-dev-main\perlin.h(36): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\unity\unity_shaders_book-master\raytracing-dev-main\raytracing-dev-main\perlin.h(37): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> E:\unity\Unity_Shaders_Book-master\RayTracing-Dev-main\ConsoleApplication1\Debug\ConsoleApplication1.exe
