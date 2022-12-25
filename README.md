@@ -3,7 +3,7 @@
 
 （《Ray Tracing In Next Week》--> [https://raytracing.github.io/books/RayTracingTheNextWeek.html](https://raytracing.github.io/books/RayTracingTheNextWeek.html)）
 
-After following the 《Ray Tracing In One Weekend》&&《Ray Tracing In Next Week》 tutorialyou can get the following pictures
+After following the 《Ray Tracing In One Weekend》&&《Ray Tracing In Next Week》 tutorial,you can get the following pictures
 
 ![image](https://user-images.githubusercontent.com/88653705/196349587-f1333004-1a1f-4921-8e98-5af3ff8f0c64.png)
 
